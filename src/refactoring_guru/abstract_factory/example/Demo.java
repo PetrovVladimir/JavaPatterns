@@ -26,6 +26,7 @@ public class Demo {
             app = new Application(factory);
         }
         return app;
+        
     }
 
     public static void main(String[] args) {
